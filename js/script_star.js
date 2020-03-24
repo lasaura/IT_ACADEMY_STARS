@@ -1,4 +1,4 @@
-function estrella(value) {
+function rate(value) {
     clearEstrella(); //vacia clase active
     addEstrellas(value); //añade clase active
 }
